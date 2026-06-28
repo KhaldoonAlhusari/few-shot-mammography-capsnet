@@ -56,7 +56,7 @@ Each notebook is self-contained and covers data loading, splits, augmentation, a
 | ResNet50 | 0.459 ± 0.203 | 0.459 ± 0.203 | 0.541 ± 0.203 | 0.538 ± 0.187 | 0.386 ± 0.152 | 0.462 ± 0.187 |
 | CapsNet | 0.585 ± 0.084 | 0.600 ± 0.070 | 0.644 ± 0.117 | 0.519 ± 0.046 | 0.619 ± 0.062 | 0.590 ± 0.041 |
 
-*CapsNet 20-shot CC and 10-shot MLO loss values were not reliably logged; accuracy comparisons remain valid.*
+*Some loss values were not reliably logged; accuracy comparisons remain valid.*
 
 ---
 
